@@ -42,7 +42,7 @@ while i < N:
     ind = lst.index(m)
     # print(ind + 1)
 
-    -
+    
 
 
 
